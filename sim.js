@@ -4,9 +4,14 @@ function setup () {
     bodies = [];
     particles = [];
 
+    bodies.push(Body ([500, 500], 1000));
+    bodies.push(Body ([100, 600], 1000, 'orange'));
 
-    particles.push(Particle ([500, 400], [1, 0], 100, 'blue'));
-    particles.push(Particle ([500, 600], [-1, 0], 100, 'red'));
+    particles.push(Particle ([100, 800], [1, 0], 1, 'yellow'));
+    particles.push(Particle ([900, 300], [1, 0], 100, 'green'));
+    particles.push(Particle ([500, 900], [-1, 0], 1));
+    particles.push(Particle ([100, 400], [1, 0], 1, 'blue'));
+    particles.push(Particle ([500, 600], [-1, 0], 1000, '#FF00FF'));
 
     G = 10;
     dt = 0.1;
