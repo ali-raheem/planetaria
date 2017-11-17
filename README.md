@@ -9,15 +9,15 @@ To improve accuracy at the cost of speed lower dt.
 
 Here is the result of the above demo after some time.
 
-![Demo Screenshot](screenshot.png?raw=true| width=400).
+![Demo Screenshot](screenshot.png?raw=true).
 
 Here are two examples of binary orbits. In the first one one of the particles, the more massive one, starts at rest.
 
-![Binary orbits where V_2 = 0](boobs.png?raw=true| width=400).
+![Binary orbits where V_2 = 0](boobs.png?raw=true).
 
 Here the first particle starts with 10 times as much velocity.
 
-![Binary orbits are quite attractive](binary.png?raw=true| width=400).
+![Binary orbits are quite attractive](binary.png?raw=true).
 
 Released under GPL 3
 
