@@ -5,4 +5,6 @@ This simulator includes two classes of objects, particles and bodies. While part
 
 To improve accuracy at the cost of speed lower dt.
 
+[Click here for demo](https://wolfmankurd.github.io/planetaria/)
+
 Released under GPL 3
