@@ -19,6 +19,10 @@ Here the first particle starts with 10 times as much velocity.
 
 ![Binary orbits are quite attractive](binary.png?raw=true).
 
+Another binary orbit here the more massive particle almost seems to be tracing a sinusoidal path.
+
+![Remarkable path of blue particle](binary2.png?raw=true).
+
 Released under GPL 3
 
 
