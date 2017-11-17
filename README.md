@@ -16,14 +16,18 @@ Released under GPL 3
 
 ## FAQ
 
-* Why is this so slow?
-** Speed can be increased at the cost of accuracy by increasing the value of dt.
+**Why is this so slow?**
 
-* Can it's accuracy be improved?
-** Decreasing dt improves accuracy at the cost of speed.
+Speed can be increased at the cost of accuracy by increasing the value of dt.
 
-* How does this work?
-** Each tick the force between each particle and body is calculated. This information is used in [leapfrog integration](https://en.wikipedia.org/wiki/Leapfrog_integration).
+**Can it's accuracy be improved?**
 
-* Can I use this?
-** I release this under GPL v3, up to date version maintained on GitHub (https://github.com/wolfmankurd/planetaria).
+Decreasing dt improves accuracy at the cost of speed.
+
+**How does this work?**
+
+Each tick the force between each particle and body is calculated. This information is used in [leapfrog integration](https://en.wikipedia.org/wiki/Leapfrog_integration).
+
+**Can I use this?**
+
+I release this under GPL v3, up to date version maintained on GitHub (https://github.com/wolfmankurd/planetaria).
