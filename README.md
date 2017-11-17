@@ -20,6 +20,10 @@ Released under GPL 3
 
 Speed can be increased at the cost of accuracy by increasing the value of dt.
 
+**How accurate is this?**
+
+It can be fairly accurate so long as the time interval is kept low compared to the forces. A good indication of accuracy is are there gaps appearing in the trajectories? If so accuracy has been degraded as dt is too large.
+
 **Can it's accuracy be improved?**
 
 Decreasing dt improves accuracy at the cost of speed.
