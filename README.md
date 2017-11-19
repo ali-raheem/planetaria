@@ -5,7 +5,7 @@ This simulator includes two classes of objects, particles and bodies. While part
 
 To improve accuracy at the cost of speed lower dt.
 
-[Click here for demo](https://wolfmankurd.github.io/planetaria/)
+[Click here for demo](https://wolfmankurd.github.io/planetaria/). In the spawns a large stationary object, you can then click and drag to add particles.
 
 Here is the result of the above demo after some time.
 
